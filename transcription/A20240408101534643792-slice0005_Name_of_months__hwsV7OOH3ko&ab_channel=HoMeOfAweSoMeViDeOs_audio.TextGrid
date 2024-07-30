@@ -1,0 +1,240 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 9.6
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 9.6
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.65
+			text = "0"
+		intervals [2]:
+			xmin = 0.65
+			xmax = 2.03
+			text = ""
+		intervals [3]:
+			xmin = 2.03
+			xmax = 2.95
+			text = "0"
+		intervals [4]:
+			xmin = 2.95
+			xmax = 3.29
+			text = ""
+		intervals [5]:
+			xmin = 3.29
+			xmax = 3.48
+			text = "0"
+		intervals [6]:
+			xmin = 3.48
+			xmax = 4.62
+			text = ""
+		intervals [7]:
+			xmin = 4.62
+			xmax = 4.92
+			text = "0"
+		intervals [8]:
+			xmin = 4.92
+			xmax = 5.81
+			text = ""
+		intervals [9]:
+			xmin = 5.81
+			xmax = 5.97
+			text = "0"
+		intervals [10]:
+			xmin = 5.97
+			xmax = 6.22
+			text = ""
+		intervals [11]:
+			xmin = 6.22
+			xmax = 6.36
+			text = "0"
+		intervals [12]:
+			xmin = 6.36
+			xmax = 8.1
+			text = ""
+		intervals [13]:
+			xmin = 8.1
+			xmax = 9.6
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 9.6
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.65
+			text = "0"
+		intervals [2]:
+			xmin = 0.65
+			xmax = 2.03
+			text = "marc"
+		intervals [3]:
+			xmin = 2.03
+			xmax = 2.95
+			text = "0"
+		intervals [4]:
+			xmin = 2.95
+			xmax = 3.29
+			text = "ləkəŋ"
+		intervals [5]:
+			xmin = 3.29
+			xmax = 3.48
+			text = "0"
+		intervals [6]:
+			xmin = 3.48
+			xmax = 4.62
+			text = "marc ləkəŋ"
+		intervals [7]:
+			xmin = 4.62
+			xmax = 4.92
+			text = "0"
+		intervals [8]:
+			xmin = 4.92
+			xmax = 5.81
+			text = "kuruŋkume bi sem hɛ"
+		intervals [9]:
+			xmin = 5.81
+			xmax = 5.97
+			text = "0"
+		intervals [10]:
+			xmin = 5.97
+			xmax = 6.22
+			text = "ləkəŋ"
+		intervals [11]:
+			xmin = 6.22
+			xmax = 6.36
+			text = "0"
+		intervals [12]:
+			xmin = 6.36
+			xmax = 8.1
+			text = "hɛ nem ɔf man maɾtʃ"
+		intervals [13]:
+			xmin = 8.1
+			xmax = 9.6
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 9.6
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.65
+			text = "0"
+		intervals [2]:
+			xmin = 0.65
+			xmax = 2.03
+			text = ""
+		intervals [3]:
+			xmin = 2.03
+			xmax = 2.95
+			text = "0"
+		intervals [4]:
+			xmin = 2.95
+			xmax = 3.29
+			text = ""
+		intervals [5]:
+			xmin = 3.29
+			xmax = 3.48
+			text = "0"
+		intervals [6]:
+			xmin = 3.48
+			xmax = 4.62
+			text = ""
+		intervals [7]:
+			xmin = 4.62
+			xmax = 4.92
+			text = "0"
+		intervals [8]:
+			xmin = 4.92
+			xmax = 5.81
+			text = ""
+		intervals [9]:
+			xmin = 5.81
+			xmax = 5.97
+			text = "0"
+		intervals [10]:
+			xmin = 5.97
+			xmax = 6.22
+			text = ""
+		intervals [11]:
+			xmin = 6.22
+			xmax = 6.36
+			text = "0"
+		intervals [12]:
+			xmin = 6.36
+			xmax = 8.1
+			text = ""
+		intervals [13]:
+			xmin = 8.1
+			xmax = 9.6
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 9.6
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.65
+			text = "0"
+		intervals [2]:
+			xmin = 0.65
+			xmax = 2.03
+			text = "March"
+		intervals [3]:
+			xmin = 2.03
+			xmax = 2.95
+			text = "0"
+		intervals [4]:
+			xmin = 2.95
+			xmax = 3.29
+			text = "March"
+		intervals [5]:
+			xmin = 3.29
+			xmax = 3.48
+			text = "0"
+		intervals [6]:
+			xmin = 3.48
+			xmax = 4.62
+			text = "March Lakang"
+		intervals [7]:
+			xmin = 4.62
+			xmax = 4.92
+			text = "0"
+		intervals [8]:
+			xmin = 4.92
+			xmax = 5.81
+			text = "It is the same in Kurung kumey."
+		intervals [9]:
+			xmin = 5.81
+			xmax = 5.97
+			text = "0"
+		intervals [10]:
+			xmin = 5.97
+			xmax = 6.22
+			text = "March"
+		intervals [11]:
+			xmin = 6.22
+			xmax = 6.36
+			text = "0"
+		intervals [12]:
+			xmin = 6.36
+			xmax = 8.1
+			text = "is the name of month, March"
+		intervals [13]:
+			xmin = 8.1
+			xmax = 9.6
+			text = "0"

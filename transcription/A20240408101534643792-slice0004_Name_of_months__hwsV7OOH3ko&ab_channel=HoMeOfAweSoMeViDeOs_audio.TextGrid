@@ -1,0 +1,240 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 67.6
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 67.6
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 49.99
+			text = "0"
+		intervals [2]:
+			xmin = 49.99
+			xmax = 50.82
+			text = ""
+		intervals [3]:
+			xmin = 50.82
+			xmax = 51.12
+			text = "0"
+		intervals [4]:
+			xmin = 51.12
+			xmax = 51.89
+			text = ""
+		intervals [5]:
+			xmin = 51.89
+			xmax = 57.46
+			text = "0"
+		intervals [6]:
+			xmin = 57.46
+			xmax = 59.12
+			text = ""
+		intervals [7]:
+			xmin = 59.12
+			xmax = 61.73
+			text = "0"
+		intervals [8]:
+			xmin = 61.73
+			xmax = 62.03
+			text = ""
+		intervals [9]:
+			xmin = 62.03
+			xmax = 63.27
+			text = "0"
+		intervals [10]:
+			xmin = 63.27
+			xmax = 63.86
+			text = ""
+		intervals [11]:
+			xmin = 63.86
+			xmax = 64.22
+			text = "0"
+		intervals [12]:
+			xmin = 64.22
+			xmax = 66.06
+			text = ""
+		intervals [13]:
+			xmin = 66.06
+			xmax = 67.6
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 67.6
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 49.99
+			text = "0"
+		intervals [2]:
+			xmin = 49.99
+			xmax = 50.82
+			text = "ləmii"
+		intervals [3]:
+			xmin = 50.82
+			xmax = 51.12
+			text = "0"
+		intervals [4]:
+			xmin = 51.12
+			xmax = 51.89
+			text = "ləmii"
+		intervals [5]:
+			xmin = 51.89
+			xmax = 57.46
+			text = "0"
+		intervals [6]:
+			xmin = 57.46
+			xmax = 59.12
+			text = "ɟɛnʊəri ləmii"
+		intervals [7]:
+			xmin = 59.12
+			xmax = 61.73
+			text = "0"
+		intervals [8]:
+			xmin = 61.73
+			xmax = 62.03
+			text = "ratee"
+		intervals [9]:
+			xmin = 62.03
+			xmax = 63.27
+			text = "0"
+		intervals [10]:
+			xmin = 63.27
+			xmax = 63.86
+			text = "ratee"
+		intervals [11]:
+			xmin = 63.86
+			xmax = 64.22
+			text = "0"
+		intervals [12]:
+			xmin = 64.22
+			xmax = 66.06
+			text = "febɹʊʌrii rae"
+		intervals [13]:
+			xmin = 66.06
+			xmax = 67.6
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 67.6
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 49.99
+			text = "0"
+		intervals [2]:
+			xmin = 49.99
+			xmax = 50.82
+			text = ""
+		intervals [3]:
+			xmin = 50.82
+			xmax = 51.12
+			text = "0"
+		intervals [4]:
+			xmin = 51.12
+			xmax = 51.89
+			text = ""
+		intervals [5]:
+			xmin = 51.89
+			xmax = 57.46
+			text = "0"
+		intervals [6]:
+			xmin = 57.46
+			xmax = 59.12
+			text = ""
+		intervals [7]:
+			xmin = 59.12
+			xmax = 61.73
+			text = "0"
+		intervals [8]:
+			xmin = 61.73
+			xmax = 62.03
+			text = ""
+		intervals [9]:
+			xmin = 62.03
+			xmax = 63.27
+			text = "0"
+		intervals [10]:
+			xmin = 63.27
+			xmax = 63.86
+			text = ""
+		intervals [11]:
+			xmin = 63.86
+			xmax = 64.22
+			text = "0"
+		intervals [12]:
+			xmin = 64.22
+			xmax = 66.06
+			text = ""
+		intervals [13]:
+			xmin = 66.06
+			xmax = 67.6
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 67.6
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 49.99
+			text = "0"
+		intervals [2]:
+			xmin = 49.99
+			xmax = 50.82
+			text = "January"
+		intervals [3]:
+			xmin = 50.82
+			xmax = 51.12
+			text = "0"
+		intervals [4]:
+			xmin = 51.12
+			xmax = 51.89
+			text = "January"
+		intervals [5]:
+			xmin = 51.89
+			xmax = 57.46
+			text = "0"
+		intervals [6]:
+			xmin = 57.46
+			xmax = 59.12
+			text = ""
+		intervals [7]:
+			xmin = 59.12
+			xmax = 61.73
+			text = "0"
+		intervals [8]:
+			xmin = 61.73
+			xmax = 62.03
+			text = "February"
+		intervals [9]:
+			xmin = 62.03
+			xmax = 63.27
+			text = "0"
+		intervals [10]:
+			xmin = 63.27
+			xmax = 63.86
+			text = "February"
+		intervals [11]:
+			xmin = 63.86
+			xmax = 64.22
+			text = "0"
+		intervals [12]:
+			xmin = 64.22
+			xmax = 66.06
+			text = ""
+		intervals [13]:
+			xmin = 66.06
+			xmax = 67.6
+			text = "0"

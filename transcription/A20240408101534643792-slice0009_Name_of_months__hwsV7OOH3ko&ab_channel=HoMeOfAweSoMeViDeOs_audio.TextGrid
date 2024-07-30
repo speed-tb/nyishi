@@ -1,0 +1,400 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 22.4
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 22.4
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.51
+			text = "0"
+		intervals [2]:
+			xmin = 1.51
+			xmax = 2.53
+			text = ""
+		intervals [3]:
+			xmin = 2.53
+			xmax = 2.77
+			text = "0"
+		intervals [4]:
+			xmin = 2.77
+			xmax = 3.73
+			text = ""
+		intervals [5]:
+			xmin = 3.73
+			xmax = 4.2
+			text = "0"
+		intervals [6]:
+			xmin = 4.2
+			xmax = 5.46
+			text = ""
+		intervals [7]:
+			xmin = 5.46
+			xmax = 5.48
+			text = "0"
+		intervals [8]:
+			xmin = 5.48
+			xmax = 6.33
+			text = ""
+		intervals [9]:
+			xmin = 6.33
+			xmax = 6.62
+			text = "0"
+		intervals [10]:
+			xmin = 6.62
+			xmax = 9.84
+			text = ""
+		intervals [11]:
+			xmin = 9.84
+			xmax = 10.37
+			text = "0"
+		intervals [12]:
+			xmin = 10.37
+			xmax = 11.12
+			text = ""
+		intervals [13]:
+			xmin = 11.12
+			xmax = 11.53
+			text = "0"
+		intervals [14]:
+			xmin = 11.53
+			xmax = 12.28
+			text = ""
+		intervals [15]:
+			xmin = 12.28
+			xmax = 12.46
+			text = "0"
+		intervals [16]:
+			xmin = 12.46
+			xmax = 13.15
+			text = ""
+		intervals [17]:
+			xmin = 13.15
+			xmax = 13.99
+			text = "0"
+		intervals [18]:
+			xmin = 13.99
+			xmax = 15.68
+			text = ""
+		intervals [19]:
+			xmin = 15.68
+			xmax = 15.99
+			text = "0"
+		intervals [20]:
+			xmin = 15.99
+			xmax = 17.84
+			text = ""
+		intervals [21]:
+			xmin = 17.84
+			xmax = 18.47
+			text = "0"
+		intervals [22]:
+			xmin = 18.47
+			xmax = 20.08
+			text = ""
+		intervals [23]:
+			xmin = 20.08
+			xmax = 22.4
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 22.4
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.51
+			text = "0"
+		intervals [2]:
+			xmin = 1.51
+			xmax = 2.53
+			text = "ɟulai"
+		intervals [3]:
+			xmin = 2.53
+			xmax = 2.77
+			text = "0"
+		intervals [4]:
+			xmin = 2.77
+			xmax = 3.73
+			text = "səŋu:"
+		intervals [5]:
+			xmin = 3.73
+			xmax = 4.2
+			text = "0"
+		intervals [6]:
+			xmin = 4.2
+			xmax = 5.46
+			text = "kuruŋ kume bolte hɛ"
+		intervals [7]:
+			xmin = 5.46
+			xmax = 5.48
+			text = "0"
+		intervals [8]:
+			xmin = 5.48
+			xmax = 6.33
+			text = "səŋù:"
+		intervals [9]:
+			xmin = 6.33
+			xmax = 6.62
+			text = "0"
+		intervals [10]:
+			xmin = 6.62
+			xmax = 9.84
+			text = "ham bolte hɛ səŋú kuruŋ kume bolte hɛ səŋù"
+		intervals [11]:
+			xmin = 9.84
+			xmax = 10.37
+			text = "0"
+		intervals [12]:
+			xmin = 10.37
+			xmax = 11.12
+			text = "ɟulai"
+		intervals [13]:
+			xmin = 11.12
+			xmax = 11.53
+			text = "0"
+		intervals [14]:
+			xmin = 11.53
+			xmax = 12.28
+			text = "səŋú"
+		intervals [15]:
+			xmin = 12.28
+			xmax = 12.46
+			text = "0"
+		intervals [16]:
+			xmin = 12.46
+			xmax = 13.15
+			text = "səŋhù"
+		intervals [17]:
+			xmin = 13.15
+			xmax = 13.99
+			text = "0"
+		intervals [18]:
+			xmin = 13.99
+			xmax = 15.68
+			text = "əɡəst səŋte"
+		intervals [19]:
+			xmin = 15.68
+			xmax = 15.99
+			text = "0"
+		intervals [20]:
+			xmin = 15.99
+			xmax = 17.84
+			text = "Kʊrʊŋ kume bi sem hɛ səŋte"
+		intervals [21]:
+			xmin = 17.84
+			xmax = 18.47
+			text = "0"
+		intervals [22]:
+			xmin = 18.47
+			xmax = 20.08
+			text = "əɡəst səŋte"
+		intervals [23]:
+			xmin = 20.08
+			xmax = 22.4
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Latin-transcription"
+		xmin = 0.0
+		xmax = 22.4
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.51
+			text = "0"
+		intervals [2]:
+			xmin = 1.51
+			xmax = 2.53
+			text = ""
+		intervals [3]:
+			xmin = 2.53
+			xmax = 2.77
+			text = "0"
+		intervals [4]:
+			xmin = 2.77
+			xmax = 3.73
+			text = ""
+		intervals [5]:
+			xmin = 3.73
+			xmax = 4.2
+			text = "0"
+		intervals [6]:
+			xmin = 4.2
+			xmax = 5.46
+			text = ""
+		intervals [7]:
+			xmin = 5.46
+			xmax = 5.48
+			text = "0"
+		intervals [8]:
+			xmin = 5.48
+			xmax = 6.33
+			text = ""
+		intervals [9]:
+			xmin = 6.33
+			xmax = 6.62
+			text = "0"
+		intervals [10]:
+			xmin = 6.62
+			xmax = 9.84
+			text = ""
+		intervals [11]:
+			xmin = 9.84
+			xmax = 10.37
+			text = "0"
+		intervals [12]:
+			xmin = 10.37
+			xmax = 11.12
+			text = ""
+		intervals [13]:
+			xmin = 11.12
+			xmax = 11.53
+			text = "0"
+		intervals [14]:
+			xmin = 11.53
+			xmax = 12.28
+			text = ""
+		intervals [15]:
+			xmin = 12.28
+			xmax = 12.46
+			text = "0"
+		intervals [16]:
+			xmin = 12.46
+			xmax = 13.15
+			text = ""
+		intervals [17]:
+			xmin = 13.15
+			xmax = 13.99
+			text = "0"
+		intervals [18]:
+			xmin = 13.99
+			xmax = 15.68
+			text = ""
+		intervals [19]:
+			xmin = 15.68
+			xmax = 15.99
+			text = "0"
+		intervals [20]:
+			xmin = 15.99
+			xmax = 17.84
+			text = ""
+		intervals [21]:
+			xmin = 17.84
+			xmax = 18.47
+			text = "0"
+		intervals [22]:
+			xmin = 18.47
+			xmax = 20.08
+			text = ""
+		intervals [23]:
+			xmin = 20.08
+			xmax = 22.4
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 22.4
+		intervals: size = 23
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.51
+			text = "0"
+		intervals [2]:
+			xmin = 1.51
+			xmax = 2.53
+			text = "July"
+		intervals [3]:
+			xmin = 2.53
+			xmax = 2.77
+			text = "0"
+		intervals [4]:
+			xmin = 2.77
+			xmax = 3.73
+			text = "July"
+		intervals [5]:
+			xmin = 3.73
+			xmax = 4.2
+			text = "0"
+		intervals [6]:
+			xmin = 4.2
+			xmax = 5.46
+			text = "In Kurung kumey they call it"
+		intervals [7]:
+			xmin = 5.46
+			xmax = 5.48
+			text = "0"
+		intervals [8]:
+			xmin = 5.48
+			xmax = 6.33
+			text = "Sangu (July)"
+		intervals [9]:
+			xmin = 6.33
+			xmax = 6.62
+			text = "0"
+		intervals [10]:
+			xmin = 6.62
+			xmax = 9.84
+			text = "We call it Sangu. In Kurung kumey they call it Sangu. (The Kurung kumey call it Sangu)."
+		intervals [11]:
+			xmin = 9.84
+			xmax = 10.37
+			text = "0"
+		intervals [12]:
+			xmin = 10.37
+			xmax = 11.12
+			text = "July"
+		intervals [13]:
+			xmin = 11.12
+			xmax = 11.53
+			text = "0"
+		intervals [14]:
+			xmin = 11.53
+			xmax = 12.28
+			text = "July"
+		intervals [15]:
+			xmin = 12.28
+			xmax = 12.46
+			text = "0"
+		intervals [16]:
+			xmin = 12.46
+			xmax = 13.15
+			text = "July"
+		intervals [17]:
+			xmin = 13.15
+			xmax = 13.99
+			text = "0"
+		intervals [18]:
+			xmin = 13.99
+			xmax = 15.68
+			text = "August August"
+		intervals [19]:
+			xmin = 15.68
+			xmax = 15.99
+			text = "0"
+		intervals [20]:
+			xmin = 15.99
+			xmax = 17.84
+			text = "It is the same in Kurung kumey, Sangte."
+		intervals [21]:
+			xmin = 17.84
+			xmax = 18.47
+			text = "0"
+		intervals [22]:
+			xmin = 18.47
+			xmax = 20.08
+			text = "August August"
+		intervals [23]:
+			xmin = 20.08
+			xmax = 22.4
+			text = "0"
